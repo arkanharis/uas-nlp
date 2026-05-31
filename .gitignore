@@ -1,0 +1,6 @@
+.env
+analysis_results/
+app/__pycache__/
+app/whisper.cpp/
+app/coqui_utils/
+env/
